@@ -9,6 +9,7 @@ int main(){
 
      cout<<"Learning git and github";
      cout<<"Basics of git and github";
+     cout<<"Wantto ter it"
      cout<<"a";
 
      //This is our first version..
