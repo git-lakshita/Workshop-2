@@ -7,5 +7,6 @@ void main()
  cout<<"                                  Hello World\n";
  cout<<"                                  ***********\n\n";
  cout<<"                     This is my first github pull program.\n\n";
+ cout<"                      This is mine first programe tooooooooooo";
  getch();
 }
