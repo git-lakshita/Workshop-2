@@ -8,6 +8,7 @@ void main()
  cout<<"                     This is my first github pull program.\n\n";
  cout<<"                      This is mine first programe tooooooooooo";
  
- cout<<"                                git is a very good platform/n;
+ cout<<"                                git is a very very good platform/n;
+ cout<<"                                 I love GitHub;
  getch();
 }
