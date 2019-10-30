@@ -3,10 +3,11 @@
 
 void main()
 {clrscr();
- cout<<"                                  ***********\n";
- cout<<"                                  Hello World\n";
+ cout<<"                                  Hello World\n\n";
  cout<<"                                  ***********\n\n";
  cout<<"                     This is my first github pull program.\n\n";
- cout<"                      This is mine first programe tooooooooooo";
+ cout<<"                      This is mine first programe tooooooooooo";
+ 
+ cout<<"                                git is a very good platform/n;
  getch();
 }
